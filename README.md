@@ -3,6 +3,7 @@ August/September 2019
 A small notebook, containing a solution for aspiring Italian students which have to take one of the national tests. The subject matter is far more difficult than the code itself, and is explained in the first chapters. 
 
 ## Purpose and outline 
+### Please note that the main document is named "university_test_rankings" as the repository. The other ones are data sources
 The following is a simple combination of Jupyter Notebook and pdf version of a code I made around 2 years ago, just after the end of my basic course in programming with pyhton and algorithms. It was my second individual project, not a university or job related task, just for the sake of fun and interest in understanding some of the capabilities of a beautiful programming language such as Python. 
 
 # Author 
